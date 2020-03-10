@@ -1,0 +1,22 @@
+.Header {
+  margin: 10px
+}
+
+.d5-logo {
+  width: 32px;
+  vertical-align: middle;
+}
+
+.by-d5 {
+  vertical-align: middle;
+  height: 32px;
+  margin: 5px;
+}
+
+.by-d5 a {
+  color: #383E4A;
+}
+
+.by-d5 a:hover {
+  color: #5DB1BA;
+}
